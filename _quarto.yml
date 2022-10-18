@@ -5,37 +5,37 @@ project:
     - "*.md"
 
 website:
-  title: "Marie Curie"
+  title: "Tong Chen"
   site-url: "https://mariecurie.com"
   navbar:
-    background: "#536878"
+    background: "#EEEEEE"
     left:
-      - href: blog/index.qmd
-        text: Blog
+#      - href: blog/index.qmd
+#        text: Blog
       - href: publications/index.qmd
         text: Publications
-      - href: software/index.qmd
-        text: Software
-      - href: talks/index.qmd
-        text: Talks
-      - href: teaching/index.qmd
-        text: Teaching
-      - href: about/index.qmd
-        text: About
+#      - href: software/index.qmd
+#        text: Software
+#      - href: talks/index.qmd
+#        text: Talks
+#      - href: teaching/index.qmd
+#        text: Teaching
+#      - href: about/index.qmd
+#        text: About
   page-footer:
-    left: "Copyright 2022, Marie Curie"
+    left: "© 2022, Tong Chen"
     right:
       - icon: github
-        href: https://github.com/mariecurie
+        href: https://github.com/T0ngChen
       - icon: twitter
-        href: https://twitter.com/mariecurie
-    background: "#536878"
+        href: https://twitter.com/cttc101
+    background: "#EEEEEE"
 
 date-format: "D MMMM YYYY"
 
 format:
   html:
-    theme: tango
+    theme: zephyr
     css: styles.css
     toc: true
     html-math-method: katex

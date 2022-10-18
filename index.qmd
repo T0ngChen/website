@@ -1,20 +1,25 @@
 ---
+title: "Tong Chen  陈通"
 about:
   template: trestles
-  image: mariecurie.png
+  image: img/headshot.jpg
+  image-shape: round
+  image-width: 15em
   links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com/mariecurie
-    - icon: github
-      text: github
-      href: https://github.com/mariecurie
     - icon: envelope
       text: mail
-      href: mailto:Marie.Curie@ens.fr
+      href: mailto:tong.chen@mcri.edu.au
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/cttc101
+    - icon: github
+      text: github
+      href: https://github.com/T0ngChen
 ---
 
-**Professor Marie Skłodowska-Curie**<br>
-School of Physics & Chemistry<br>
-École Normale Supérieure<br>
-Paris, France
+<div class="about-link-text">
+**Hi/Kia Ora/你好!**<br>
+ <br>
+I'm a research officer (postdoc biostatistician) at [Clinical Epidemiology & Biostatistics](https://www.mcri.edu.au/research/research-areas/population-health/clinical-epidemiology-biostatistics-cebu), Murdoch Children's Research Institute.
+
+</div>

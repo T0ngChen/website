@@ -72,6 +72,9 @@ $endif$
       $if(doi)$
       <a href="https://doi.org/$doi$" class="badge badge badge-blue">DOI</a>
       $endif$
+      $if(thesis)$
+      <a href="https://researchspace.auckland.ac.nz/handle/$thesis$" class="badge badge badge-green">THESIS</a>
+      $endif$
       $if(amazon)$
       <a href="http://buy.geni.us/Proxy.ashx?TSID=140570&GR_URL=http%3A%2F%2Fwww.amazon.com%2Fdp%2F$amazon$"
         class="badge badge badge-blue">Amazon</a>
@@ -87,12 +90,6 @@ $endif$
       $endif$
       $if(online)$
       <a href=$online$ class="badge badge badge-blue">Online</a>
-      $endif$
-      $if(figshare)$ <a href="https://bridges.monash.edu/ndownloader/files/$figshare$" class="badge badge badge-red"><i
-          class="fa fa-file-pdf-o"></i>&nbsp;pdf</a>
-      $endif$
-      $if(file)$<a href="https://robjhyndman.com/papers/$file$" class="badge badge badge-red"><i
-          class="fa fa-file-pdf-o"></i>&nbsp;pdf</a>
       $endif$
       $if(github)$<a href="http://github.com/$github$" class="badge badge badge-green"><i
           class="fa fa-github"></i>&nbsp;code</a>

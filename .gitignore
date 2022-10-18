@@ -4,6 +4,7 @@ _freeze/*
 *_files/
 
 /.quarto/
+/_site/
 .Rproj.user
 
 /_*.local

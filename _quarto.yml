@@ -14,8 +14,8 @@ website:
 #        text: Blog
       - href: publications/index.qmd
         text: Publications
-#      - href: software/index.qmd
-#        text: Software
+      - href: software/index.qmd
+        text: Software
 #      - href: talks/index.qmd
 #        text: Talks
 #      - href: teaching/index.qmd
@@ -41,3 +41,6 @@ format:
     html-math-method: katex
     include-in-header:
       file: header.html
+
+execute:
+  freeze: auto

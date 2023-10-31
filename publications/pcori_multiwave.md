@@ -1,8 +1,8 @@
 ---
 author: Bryan E Shepherd, Kyunghee Han, <b>Tong Chen</b>, Aihua Bian, Shannon Pugh, Stephany N Duda, Thomas Lumley, William J Heerman, Pamela A Shaw
-date: 2022-07-01
+date: 2023-09-13
 title: "Multiwave validation sampling for error-prone electronic health records"
-details: <em>Biometrics</em>, In Press
+details: <em>Biometrics</em>, 79, 2649–2663
 doi: 10.1111/biom.13713
 ---
 

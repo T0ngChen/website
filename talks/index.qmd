@@ -19,4 +19,4 @@ page-layout: full
 title-block-banner: false
 ---
 
-# Talks I've given
+# Seminars I've given

@@ -1,0 +1,15 @@
+---
+date: 2019-11-26
+title: Optimal multi-wave sampling for regression modelling
+venue: University of Otago, New Zealand
+---
+
+The 2019 NZSA Conference
+
+
+# Abstract
+
+Two-phase designs involve measuring extra variables on a subset of the cohort where some variables are already measured. The goal of two-phase designs is to choose a subsample of individuals from the cohort and analyse that subsample efficiently. It is of interest to obtain an optimal design that gives the most efficient estimates of regression parameters. In this article, we propose a multiwave sampling design to approximate the optimal design for design-based estimators. Influence functions are used to compute the optimal sampling allocations. We propose to use informative priors on regression parameters to derive the wave-1 sampling probabilities because any prespecified sampling probabilities may be far from optimal and decrease the design efficiency. The posterior distributions of the regression parameters derived from the current wave will then be used as priors for the next wave. Generalized raking is used in the final statistical analysis. We show that a two-wave sampling with reasonable informative priors will end up with a highly efficient estimation for the parameter of interest and be close to the underlying optimal design.
+
+
+

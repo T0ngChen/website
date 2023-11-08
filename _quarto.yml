@@ -20,8 +20,8 @@ website:
         text: Seminars
 #      - href: teaching/index.qmd
 #        text: Teaching
-#      - href: about/index.qmd
-#        text: About
+      - href: about/index.qmd
+        text: About
   page-footer:
     left: "© 2022-2023, Tong Chen"
     right:

@@ -1,3 +1,19 @@
-# About me
+---
+title: "About"
+---
 
-Some more detail about who I am and what I do.
+## Qualifications
+
+ * BSc.(Hons) in Statistics, Northwestern Polytechnical University, Xi’an, China, 2015.
+ * PgDip in Statistics, University of Auckland, 2016.
+ * MSc in Statistics, University of Auckland, 2017.
+ * PhD in Statistics, University of Auckland, 2022.
+
+
+
+## Editorial Service
+ 
+ * Reviewer, Statistics in Medicine, Statistical Methods in Medical Research, International Journal of Paediatric Dentistry
+Page
+
+ 

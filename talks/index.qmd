@@ -1,4 +1,5 @@
 ---
+pagetitle: "Tong Chen - Seminars"
 listing:
   contents: .
   sort: "date desc"

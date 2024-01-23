@@ -23,7 +23,7 @@ website:
       - href: about/index.qmd
         text: About
   page-footer:
-    left: "© 2022-2023, Tong Chen"
+    left: "© 2022-2024, Tong Chen"
     right:
       - icon: github
         href: https://github.com/T0ngChen

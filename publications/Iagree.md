@@ -6,7 +6,7 @@ details: <em>JMIR Research Protocols</em>, In press
 doi: 10.2196/51578
 ---
 
-<!---
+
 <b>Background</b>: Digital methods that enable early caries identification can potentially streamline data collection in research and optimize dental examinations for young children. Intraoral Scanners are devices used for creating 3D models of teeth in dentistry and are being rapidly adopted into clinical workflows. Integrating fluorescence technology into scanner hardware can support early caries detection. However, the performance of caries detection methods using 3D models featuring color and fluorescence in primary teeth is unknown. 
 
 <b>Objective</b>: This study aims to assess the diagnostic agreement between visual examination, on-screen assessment of 3D models in approximate natural colors with and without fluorescence and application of an automated caries scoring system for caries detection in primary teeth.
@@ -16,4 +16,4 @@ doi: 10.2196/51578
 <b>Results</b>: Automated caries scoring of 3D models was completed as of October 2023, with publication of results expected by July 2024. On-screen assessment has commenced, with expected completion of scoring and data analysis by March 2024. Results will be disseminated by the end of 2024. 
 
 <b>Conclusion</b>: The study outcomes may inform new practices that utilize digital models to facilitate dental assessments. Novel approaches that enable remote dental examination without compromising the accuracy of visual examination have wide application in the research environment, clinical practice and for the provision of teledentistry. 
--->
+

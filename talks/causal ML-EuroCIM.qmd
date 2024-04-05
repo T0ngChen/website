@@ -1,0 +1,14 @@
+---
+date: 2024-04-16
+title: Causal machine learning for high-dimensional mediation analysis using interventional effects mapped to a target trial
+venue: Copenhagen, Denmark
+---
+
+European Causal Inference Meeting
+
+# Abstract
+
+Cohort studies frequently collect biological specimens like blood, urine, and faeces to obtain high-dimensional 'omics' data and other biomarker information. These data can be key to understanding the biological pathways mediating the effects of exposures on disease risk. The recent interventional effect approach mapped to a target trial offers a promising avenue to address these problems. However, current implementations of this approach rely on parametric methods that may not be valid for high-dimensional problems in which there can be many variables (multiple biomarkers) and complex relationships but a small sample size. We employed the efficient influence function within a nonparametric model to derive causal machine learning estimators for interventional effects from which we developed a targeted minimum loss-based estimator and a one-step estimator. The nuisance parameters of these estimators can be modelled using machine learning to tackle high-dimensional problems, with the use of cross validation enabling valid inference. We showed these estimators are root-n consistent, efficient, and multiply robust. We examined the performance of these methods in simulation studies and applied them to investigate the longitudinal relationship between body mass index (BMI) and blood pressure in the Longitudinal Study of Australian Children, with potential mediation by the NMR metabolomic profile (75 metabolites). 
+
+
+

@@ -15,4 +15,13 @@ title: "About"
  
  * Reviewer, Statistics in Medicine, Statistical Methods in Medical Research, Epidemiology, International Journal of Paediatric Dentistry
 
+## Awards
+
+ * <div style="display: flex; justify-content: space-between;">
+    <div style="text-align: left;">Best Paper Award in Biometrics 2023</div>
+    <div style="text-align: right;">**International Biometric Society**</div>
+</div>
  
+   - Multiwave validation sampling for error-prone electronic health records
+   
+   - The award is given by the IBS biennially to one Biometrics paper from each of the previous two years identified by the co-editors as being of the highest quality and importance.

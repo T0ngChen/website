@@ -1,5 +1,5 @@
 ---
-title: "陈通"
+title: "Tong Chen 陈通"
 about:
   template: trestles
   image: img/headshot.jpg

@@ -1,0 +1,13 @@
+---
+date: 2024-06-13
+title: Causal machine learning for high-dimensional mediation analysis using interventional effects mapped to a target trial
+venue: Melbourne, Australia
+---
+
+The Victorian Centre for Biostatistics (ViCBiostat) Seminar
+
+# Abstract
+
+
+
+

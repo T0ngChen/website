@@ -9,9 +9,6 @@ about:
     - icon: envelope
       text: mail
       href: mailto:tong.chen@mcri.edu.au
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com/cttc101
     - icon: github
       text: github
       href: https://github.com/T0ngChen

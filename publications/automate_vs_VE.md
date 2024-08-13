@@ -1,8 +1,8 @@
 ---
 author: Bree Jones, <b>Tong Chen</b>, Stavroula Michou, Nicky Kilpatrick, David P. Burgner, Christoph Vannahme, Mihiri Silva
-date: 2024-09-01
+date: 2024-10-01
 title: "Diagnostic agreement between visual examination and an automated scanner system with fluorescence for detecting and classifying occlusal carious lesions in primary teeth"
-details: <em>Journal of Dentistry</em>, In press
+details: <em>Journal of Dentistry</em>, 149 
 doi: 10.1016/j.jdent.2024.105279
 ---
 

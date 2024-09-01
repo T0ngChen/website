@@ -4,6 +4,7 @@ date: 2024-10-01
 title: "Diagnostic agreement between visual examination and an automated scanner system with fluorescence for detecting and classifying occlusal carious lesions in primary teeth"
 details: <em>Journal of Dentistry</em>, 149 
 doi: 10.1016/j.jdent.2024.105279
+categories: Applications
 ---
 
 <b>Objective</b>: To determine the diagnostic agreement between visual examination using the International Caries Detection and Assessment System (ICDAS) and on-screen assessment of 3D models with and without fluorescence for caries detection in primary teeth. 

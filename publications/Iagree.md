@@ -4,6 +4,7 @@ date: 2023-11-01
 title: "Caries Detection in Primary Teeth Using Intraoral Scanners Featuring Fluorescence: Protocol for a Diagnostic Agreement Study"
 details: <em>JMIR Research Protocols</em>, 12:e51578
 doi: 10.2196/51578
+categories: Applications
 ---
 
 

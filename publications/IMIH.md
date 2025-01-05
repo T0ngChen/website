@@ -3,7 +3,7 @@ author: Stephanie Shields, <b>Tong Chen</b>, Felicity Crombie, David J. Manton, 
 date: 2024-02-01
 title: "The impact of molar incisor hypomineralisation on children and adolescents: A narrative review"
 details: <em>Healthcare</em>, 12, 370
-doi: doi.org/10.3390/healthcare12030370
+doi: 10.3390/healthcare12030370
 categories: Applications
 ---
 

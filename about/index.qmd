@@ -31,7 +31,7 @@ title: "About"
  * ViCBiostat Summer School: *Causal Mediation Analysis* – Teaching Team (2024)  
  * ViCBiostat Summer School: *Causal Analysis Methods: Beyond Standard Regression* – Teaching Team (2023)  
  * Short Course at the Australasian Epidemiological Association Annual Meeting: *Causal Analysis Methods: Beyond Standard Regression* – Teaching Team (2023)  
- * Teaching Assistant, University of Auckland – Courses: *STATS 108: Introduction to Statistics, STATS 201: Data Analysis, STATS 240: Design and Structured Data, STATS 330: Statistical Modelling, STATS 380: Statistical Computing*.
+ * Teaching Assistant, University of Auckland – Courses: *STATS 108: Introduction to Statistics, STATS 201: Data Analysis, STATS 240: Design and Structured Data, STATS 330: Statistical Modelling, STATS 380: Statistical Computing* (2016-2021).
 
 
 

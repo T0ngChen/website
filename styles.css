@@ -316,3 +316,12 @@ div.quarto-about-trestles .about-entity .about-link:hover {
 }
 
 
+.package {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+.package img {
+  width: 50px; /* adjust as needed */
+  margin-right: 1rem;
+}

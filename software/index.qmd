@@ -1,2 +1,11 @@
 # Softwares I've coauthored
 
+<div class="package"> 
+<img src="inzight_hex.png" alt="iNZight lite logo"> 
+<span><a href="https://lite.docker.stat.auckland.ac.nz/" target="_blank">
+<strong>iNZight Lite</strong></a>: A statistics software for students and learners to explore, visualise, and analyse data.</span> </div>
+
+<div class="package">
+<img src="medRCT.png" alt="medRCT logo">  
+<span>
+<a href="https://t0ngchen.github.io/medRCT/" target="_blank"><strong>medRCT</strong></a>: Causal mediation analysis estimating interventional effects mapped to a target trial.</span></div>

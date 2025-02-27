@@ -14,8 +14,8 @@ website:
 #        text: Blog
       - href: publications/index.qmd
         text: Publications
-#      - href: software/index.qmd
-#        text: Software
+      - href: software/index.qmd
+        text: Software
       - href: talks/index.qmd
         text: Seminars
 #      - href: teaching/index.qmd

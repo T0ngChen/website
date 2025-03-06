@@ -1,0 +1,14 @@
+---
+date: 2019-05-29
+title: Optimal Multi-wave sampling for regression modelling
+venue: University of Auckland, New Zealand
+---
+
+
+# Abstract
+
+
+Two-phase designs involve measuring extra variables on a subset of cohort some variables are measured. The goal is to choose a subsample of people from the sampled sub-cohort and analyse that subsample efficiently. There is a large body of literature on statistical inference for two-phase designs. However, compared with estimation methods, there is much less attention focused on the design aspect. It is desirable to obtain an optimal design which ends up with the most efficient estimation. In this talk, I will firstly introduce two-phase sampling and corresponding estimation methods. Thereafter, I will present a multi-wave sampling strategy and what we currently know about optimal design. I will focus on design-based estimation without making strong assumptions about the model.
+
+
+

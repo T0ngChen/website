@@ -1,0 +1,20 @@
+---
+date: 2020-10-19
+title: Optimal Design for Generalized Raking Estimators
+venue: University of Auckland, New Zealand
+---
+
+Seminar
+
+# Abstract
+
+Two-phase designs measure variables of interest on a subset of cohort where
+the outcome and covariates are readily available or cheap to collect for the entire
+cohort. Since the variables of interest are often cost-prohibitive, it is of interest
+to find an optimal design which will include more informative individuals in
+the final sample. However, the optimal design will be different for different
+estimators. In this talk, I will present the optimal design for generalized raking
+estimators.
+
+
+

@@ -1,6 +1,6 @@
 ---
 date: 2020-10-19
-title: Optimal Design for Generalized Raking Estimators
+title: Optimal design for generalized raking estimators
 venue: University of Auckland, New Zealand
 ---
 

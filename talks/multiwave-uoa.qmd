@@ -1,6 +1,6 @@
 ---
 date: 2019-05-29
-title: Optimal Multi-wave sampling for regression modelling
+title: Optimal multi-wave sampling for regression modelling
 venue: University of Auckland, New Zealand
 ---
 

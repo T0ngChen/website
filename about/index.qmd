@@ -11,10 +11,12 @@ title: "About"
 
 ## Education
 
- * PhD in Statistics, University of Auckland,  Auckland, New Zealand, 2022.
- * MSc in Statistics, University of Auckland,  Auckland, New Zealand, 2017.
- * PgDip in Statistics, University of Auckland, Auckland, New Zealand, 2016.
- * BSc.(Hons) in Statistics, Northwestern Polytechnical University, Xi’an, China, 2015.
+ * PhD in Statistics, University of Auckland,  Auckland, New Zealand, 2022
+ * MSc in Statistics, University of Auckland,  Auckland, New Zealand, 2017
+   - with First Class Honour
+ * PgDip in Statistics, University of Auckland, Auckland, New Zealand, 2016
+   - with Distinction
+ * BSc.(Hons) in Statistics, Northwestern Polytechnical University, Xi’an, China, 2015
 
 ## Research Interests
 
@@ -26,12 +28,12 @@ title: "About"
 ## Teaching 
  * Guest Lecturer: *Introduction to Biostatistics* in the Research Methods course for the Doctor of Clinical Dentistry program, Melbourne Dental School (2024, 2025)  
  * ViCBiostat Summer School: *Advanced Causal Inference: Target Trial Emulation with Time-Varying Treatments* – Teaching Team (2025)
- * Short Course: *Observational Studies: Modern Concepts and Analytic Methods* – Teaching Team (2023, 2024), Course Coordinator and Teaching Team (from 2025). This course offers twice per year.
+ * Short Course: *Observational Studies: Modern Concepts and Analytic Methods* – Teaching Team (2023, 2024), Course Coordinator and Teaching Team (from 2025). This course offers twice per year
  * Short Course: *Introduction to R* – Lecturer (2023), Course Coordinator and Lecturer (2024)  
  * ViCBiostat Summer School: *Causal Mediation Analysis* – Teaching Team (2024)  
  * ViCBiostat Summer School: *Causal Analysis Methods: Beyond Standard Regression* – Teaching Team (2023)  
  * Short Course at the Australasian Epidemiological Association Annual Meeting: *Causal Analysis Methods: Beyond Standard Regression* – Teaching Team (2023)  
- * Teaching Assistant, University of Auckland – Courses: *STATS 108: Introduction to Statistics, STATS 201: Data Analysis, STATS 240: Design and Structured Data, STATS 330: Statistical Modelling, STATS 380: Statistical Computing* (2016-2021).
+ * Teaching Assistant, University of Auckland – Courses: *STATS 108: Introduction to Statistics, STATS 201: Data Analysis, STATS 240: Design and Structured Data, STATS 330: Statistical Modelling, STATS 380: Statistical Computing* (2016-2021)
 
 
 
@@ -44,11 +46,14 @@ title: "About"
  
    - Multiwave validation sampling for error-prone electronic health records
    
-   - The award is given by the IBS biennially to one Biometrics paper from each of the previous two years identified by the co-editors as being of the highest quality and importance.
+   - The award is given by the IBS biennially to one Biometrics paper from each of the previous two years identified by the co-editors as being of the highest quality and importance
 
+ * University of Auckland Doctoral Scholarship 2018 - 2022
+ * University of Auckland Summer Research Scholarship 2017
 
 ## Service
  
  * Reviewer, Statistics in Medicine, Statistical Methods in Medical Research, Epidemiology, International Journal of Paediatric Dentistry, Paediatric and Perinatal Epidemiology
+ * Coordinator, The Victorian Centre for Biostatistics (ViCBiostat) Seminar (2025 -)
  * Coordinator, Data Science Journal Club at Murdoch Children's Research Institute (2023-2024)  
   
